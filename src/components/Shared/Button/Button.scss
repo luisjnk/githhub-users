@@ -1,0 +1,19 @@
+
+.btn {
+    border-radius: 5%;
+    background-color: #357540; 
+    border: none; 
+    color: white; 
+    padding: 12px 16px; 
+    font-size: 16px; 
+    cursor: pointer;
+
+    &-loading {
+        cursor: wait;
+    }
+}
+
+.fa {
+    margin-left: -12px;
+    margin-right: 8px;
+  }
